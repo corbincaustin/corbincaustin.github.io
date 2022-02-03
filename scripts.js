@@ -1,7 +1,7 @@
 document.getElementById("bbbutton").onclick = function () {
-       location.href = "corbinaustin.com#bb";
+       location.href = "corbinaustin.com/#bb";
    };
 
 document.getElementById("ccbutton").onclick = function () {
-      location.href = "corbinaustin.com#cc";
+      location.href = "corbinaustin.com/#cc";
     };
